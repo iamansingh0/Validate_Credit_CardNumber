@@ -35,3 +35,7 @@
 - sum += 2 + 0 + (1+2) + 0 + 8 + (1+2) + 0 + 8 => 24
 - sum = 7 + 24 => **sum = 31**
 ```
+
+### Credit Cards
+* American Express
+  * starts with 34 or 37 => 15 digit numbers
