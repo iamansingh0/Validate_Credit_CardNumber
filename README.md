@@ -43,3 +43,14 @@
   * starts with 51, 52, 53, 54 or 55 => 16 digits number
 * Visa:
   * starts with 4 => 13 or 16 digits number
+
+### Final checks:
+- main condition:
+```js
+if sum % 10 == 0 then it is a valid credit card number
+```
+1. If the Credit Card Number starts with 34 or 37, and number of digits are 15 then it is **American Express**
+2. If it starts with any of the list[51, 52, 53, 54, 55], and number of digits are 16 then it is **MasterCard**
+3. If it starts with 4 and number of digits are 13 or 16 then it is **Visa** Card!
+
+-----------------------------------
