@@ -22,9 +22,9 @@
 3. Iterate through the CC number
 4. Use modulo to get the last digit
 5. Add last digit multiplied by 2 to the sum
- - use modulo for the last digit
- - use division for the 1st digit
- - sum these two
+   1. use modulo for the last digit
+   2. use division for the 1st digit
+   3. sum these two
 6. Divide the CCNumber by 100
 7. repeat
 
