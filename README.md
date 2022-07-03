@@ -38,4 +38,8 @@
 
 ### Credit Cards
 * American Express
-  * starts with 34 or 37 => 15 digit numbers
+  * starts with 34 or 37 => 15 digits number
+* MasterCard:
+  * starts with 51, 52, 53, 54 or 55 => 16 digits number
+* Visa:
+  * starts with 4 => 13 or 16 digits number
