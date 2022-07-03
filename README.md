@@ -1,1 +1,1 @@
-Validate a Credit Card Number
+## Validate a Credit Card Number -- [Luhn Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
